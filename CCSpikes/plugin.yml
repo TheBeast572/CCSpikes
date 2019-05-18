@@ -1,0 +1,4 @@
+name: CCSpikes
+version: 0.1
+main: com.thebeast572.ccspikes.Main
+api-version: 1.13
